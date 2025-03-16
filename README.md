@@ -1,6 +1,6 @@
 # Chatgpt国内镜像网站｜最容易懂的 ChatGPT 介绍与教学指南【2025年3月更新】
 
-> 最新更新日期：2025年3月14日
+> 最新更新日期：2025年3月17日
 
 这是一份全方位的指南，帮助您轻松使用 ChatGPT 中文版，无需科学上网即可体验 GPT-4 的全部功能！  
 在本文中，您将了解如何通过推荐的镜像网站访问 ChatGPT 中文版、注册使用的具体步骤，以及常见问题的解答。
@@ -19,7 +19,7 @@ ChatGPT 中文版是 OpenAI 专为中文用户量身定做的智能对话工具�
 
 | 网站名称              | 支持功能                           | 类型          | 访问方式                       |
 |-------------------|--------------------------------|-------------|----------------------------|
-| 松鼠AI              | GPT-4.0、GPT o1、AI绘画、Mid-journey          | 网站          | [songshugpt.com](https://songshugpt.com)           |
+| 松鼠AI              | GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3、AI绘画、Mid-journey          | 网站          | [songshugpt.com](https://songshugpt.com)           |
 | 狗狗 Chat          | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 | 网站          | [gptdog.online](https://gptdog.online)            |
 | ChatGPT For CatAI | GPT 全系列模型                   | 网站      | [gptcat.net](https://gptcat.net) |
 | 给我AI   | GPT 全系列模型         | 网站 | [givemegpt.top](https://givemegpt.top)    |
@@ -36,7 +36,7 @@ ChatGPT 中文版是 OpenAI 专为中文用户量身定做的智能对话工具�
 **ChatGPT 国际版**
 - 访问：需要科学上网，访问速度较慢。
 - 语言支持：支持多语言（中文支持有限）。
-- 功能：支持 GPT-4 和 GPT-3.5。
+- 功能：支持 GPT-4 和 GPT-3.5、GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3。
 - 注册：必须使用海外手机号。
 - 费用：免费额度有限，需付费升级。
 
